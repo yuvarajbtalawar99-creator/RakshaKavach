@@ -1,0 +1,8 @@
+{
+  "name": "Rakshakavach",
+  "description": "Voice-first, fraud-resistant rural digital finance protection system.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
